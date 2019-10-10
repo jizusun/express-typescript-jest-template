@@ -1,3 +1,5 @@
 export function sampleFunction(x: string): string {
-    return x +  '...' + x;
-  }
+  const result = x + '...' + x;
+    // debugger;
+    return result
+}
