@@ -30,4 +30,5 @@ With `VS Code`
 - https://restful-api-node-typescript.books.dalenguyen.me/en/latest/index.html
 - https://codewithhugo.com/testing-an-express-app-with-supertest-moxios-and-jest/
 - https://codewithhugo.com/express-request-response-mocking/
+- https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project
 
